@@ -11,12 +11,12 @@ const expensesData = [
   },
   {
     title: "New Phone",
-    amount: 294.67,
+    amount: 104.67,
     date: new Date(2022, 1, 18),
   },
   {
     title: "New PS5",
-    amount: 294.67,
+    amount: 504.67,
     date: new Date(2022, 10, 20),
   },
   {
@@ -26,13 +26,13 @@ const expensesData = [
   },
   {
     title: "New Bike",
-    amount: 300.15,
+    amount: 250.15,
     date: new Date(2021, 1, 10),
   },
   {
     title: "New TV",
     amount: 799.45,
-    date: new Date(2021, 2, 15),
+    date: new Date(2021, 3, 15),
   },
    
   {
